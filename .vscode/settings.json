@@ -1,0 +1,20 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.bracketSpacing": false,
+  "prettier.enableDebugLogs": false,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.proseWrap": "preserve",
+  "prettier.semi": false,
+  "prettier.singleQuote": false,
+  "prettier.useTabs": false,
+  "editor.wordWrap": "off",
+  "files.autoSave": "onWindowChange",
+  "editor.renderWhitespace": "selection",
+  "editor.columnSelection": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.emptySelectionClipboard": true,
+  "editor.folding": false,
+  "editor.foldingHighlight": false,
+  "editor.multiCursorMergeOverlapping": false
+}
